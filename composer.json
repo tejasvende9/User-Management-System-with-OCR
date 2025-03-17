@@ -1,0 +1,6 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12",
+        "ext-pdo": "*"
+    }
+}
